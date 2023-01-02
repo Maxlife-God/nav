@@ -240,7 +240,7 @@ function setBgImgInit() {
             $('#bg').attr('src', 'https://api.ixiaowai.cn/gqapi/gqapi.php') //随机风景
             break;
         case "4":
-            $('#bg').attr('src', 'https://api.ixiaowai.cn/api/api.php') //随机二次元
+            $('#bg').attr('src', 'https://api.ixiaowai.cn/api/api2.php') //随机二次元
             break;
         case "5":
             $('#bg').attr('src', bg_img["path"]) //自定义
